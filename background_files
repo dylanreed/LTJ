@@ -1,0 +1,64 @@
+background_files = {
+    "Aqua": "LTJ_NFT_BG_1",
+    "Royal Blue": "LTJ_NFT_BG_2",
+    "Purple": "LTJ_NFT_BG_3",
+    "Cyan": "LTJ_NFT_BG_4",
+    "Pink": "LTJ_NFT_BG_5",
+    "Red": "LTJ_NFT_BG_6",
+    "Yellow": "LTJ_NFT_BG_7",
+    "Lemon": "LTJ_NFT_BG_8",
+    "Lime": "LTJ_NFT_BG_9",
+    "Green": "LTJ_NFT_BG_10",
+    "Full Aqua": "LTJ_NFT_BG_11",
+    "Full Royal Blue": "LTJ_NFT_BG_12",
+    "Full Maroon": "LTJ_NFT_BG_13",
+    "Full Orange": "LTJ_NFT_BG_14",
+    "Full Green": "LTJ_NFT_BG_15",
+    "Gold": "LTJ_NFT_BG_GOLD",
+    "Silver": "LTJ_NFT_BG_SILVER"
+}
+
+shirts_files = {
+    "Red PEZ": "LTJ_NFT_2_shirt_1",
+    "Losing Streak": "LTJ_NFT_2_shirt_2",
+    "Pezcore": "LTJ_NFT_2_shirt_3",
+    "Hello Rockview": "LTJ_NFT_2_shirt_4",
+    "Borders & Boundaries": "LTJ_NFT_2_shirt_5",
+    "Anthem": "LTJ_NFT_2_shirt_6",
+    "In With The Out Crowd": "LTJ_NFT_2_shirt_7",
+    "GNV FLA": "LTJ_NFT_2_shirt_8",
+    "See The Light": "LTJ_NFT_2_shirt_9",
+    "Silver Linings": "LTJ_NFT_2_shirt_10",
+    "Sound The Alarm": "LTJ_NFT_2_shirt_11",
+    "Losers, Kings, & Things We Don't Understand": "LTJ_NFT_2_shirt_12",
+    "Greased": "LTJ_NFT_2_shirt_13",
+    "Making Fun of Things You Don't Understand": "LTJ_NFT_2_shirt_14",
+    "Smoke Spot": "LTJ_NFT_2_shirt_15"
+}
+
+candy_dipenser_files = {
+    "Evo Kid": "LTJ_NFT_3_pez_1",
+    "Roger Lima": "LTJ_NFT_3_pez_2",
+    "Chris DeMakes": "LTJ_NFT_3_pez_3",
+    "Buddy Schaub": "LTJ_NFT_3_pez_4",
+    "J.R. Wasilewski": "LTJ_NFT_3_pez_5",
+    "Matt Yonker": "LTJ_NFT_3_pez_6",
+    "Losing Streak": "LTJ_NFT_3_pez_7",
+    "Hello Rockview": "LTJ_NFT_3_pez_8",
+    "Losers, Kings, and Things We Don't Understand": "LTJ_NFT_3_pez_9",
+    "Saddest Clown": "LTJ_NFT_3_pez_10",
+    "Frank": "LTJ_NFT_3_pez_11"
+}
+
+heads_files = {
+    "Evo Kid": "LTJ_NFT_4_head_1",
+    "Merchtastic": "LTJ_NFT_4_head_2",
+    "Hell Looks A Lot Like L.A.": "LTJ_NFT_4_head_3",
+    "Glorious Moustache": "LTJ_NFT_4_head_4",
+    "Who is that masked man?": "LTJ_NFT_4_head_5",
+    "Ghost of Tours Past": "LTJ_NFT_4_head_6",
+    "Howdy Howdy Howdy": "LTJ_NFT_4_head_7",
+    "Space Cadet": "LTJ_NFT_4_head_8",
+    "Go Gators!": "LTJ_NFT_4_head_9",
+    "Mohawk": "LTJ_NFT_4_head_10"
+}

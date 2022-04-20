@@ -2,7 +2,7 @@ Traits
 <background>
 "Aqua", "Royal Blue", "Purple", "Cyan", "Pink", "Red", "Yellow", "Lemon", "Lime", "Green", "Full Aqua", "Full Royal Blue", "Full Maroon", "Full Orange", "Full Green", "Gold", "Silver"
 <shirts>
-"Red PEZ", "Losing Streak", "Pezcore", "Hello Rockview", "Borders & Boundaries", "Anthem", "In With The Out Crowd", "GNV FLA", "See The Light", "Silver Linings", "Sound The Alarm", "Losers", " Kings", " & Things We Don't Understand", "Greased", "Making Fun of Things You Don't Understand", "Smoke Spot"
+"Red PEZ", "Losing Streak", "Pezcore", "Hello Rockview", "Borders & Boundaries", "Anthem", "In With The Out Crowd", "GNV FLA", "See The Light", "Silver Linings", "Sound The Alarm", "Losers", " Kings", "& Things We Don't Understand", "Greased", "Making Fun of Things You Don't Understand", "Smoke Spot"
 <candy dispenser>
 "Evo Kid", "Roger Lima", "Chris DeMakes", "Buddy Schaub", "J.R. Wasilewski", "Matt Yonker", "Losing Streak", "Hello Rockview", "Losers", " Kings", " and Things We Don't Understand", "Saddest Clown", "Frank"
 <heads>
