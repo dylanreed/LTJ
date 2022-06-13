@@ -1,6 +1,6 @@
 from imaplib import IMAP4_SSL
 from PIL import Image 
-from IPython.display import display 
+#from IPython.display import display 
 import random
 import json
 
@@ -91,7 +91,7 @@ heads_files = {
 }
 
 #Create a function to generate unique image combinations
-TOTAL_IMAGES = 100 # Number of random unique images we want to generate ( 2 x 2 x 2 = 8)
+TOTAL_IMAGES = 9292 # Number of random unique images we want to generate ( 2 x 2 x 2 = 8)
 
 all_images = [] 
 
@@ -190,7 +190,7 @@ for item in all_images:
     #Convert to RGB
     rgb_im = com3.convert('RGB')
     file_name = str(item["tokenId"]) + ".png"
-    rgb_im.save("./images/LTJ_images_100/" + file_name)
+    rgb_im.save("./images/LTJ_images/" + file_name)
     print(file_name)
 
 #Generate Metadata
