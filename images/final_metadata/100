@@ -1,0 +1,25 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Aqua"
+        },
+        {
+            "trait_type": "Shirts",
+            "value": "In With The Out Crowd"
+        },
+        {
+            "trait_type": "Candy Dispenser",
+            "value": "Losing Streak"
+        },
+        {
+            "trait_type": "Heads",
+            "value": "Glorious Moustache"
+        }
+    ],
+    "tokenId": 100,
+    "name": "Evo Kid Army #100",
+    "description": "The Evo Kid Army is a collection of 9,292 NFTs that give the holder access to the Evo Kid Army, the official fan club of the band Less Than Jake. Members get access to exclusive merch, special giveaways, behind-the-scenes looks at recording sessions, advance peeks at new music, and plenty more! It's the ultimate VIP\u00a0pass to all things Less Than Jake!",
+    "external_url": "https://lessthanjake.com/",
+    "image": "https://nervous.mypinata.cloud/ipfs/Qmet7kjj1TEGiAQjsqcWMW2Sx4C6iQzwLvqycZ5o3sZUKG/100.png"
+}

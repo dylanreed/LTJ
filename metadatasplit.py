@@ -18,7 +18,7 @@ def getAttribute(key, value):
     }
 for i in data:
     token_id = i['tokenId']
-    image = "https://nervous.mypinata.cloud/ipfs/QmVdafQABqczynVEJkxTTFY5uQReS86VQPR7BDebf1KJNq/" + str(token_id) + '.png'
+    image = "https://nervous.mypinata.cloud/ipfs/Qmet7kjj1TEGiAQjsqcWMW2Sx4C6iQzwLvqycZ5o3sZUKG/" + str(token_id) + '.png'
     token = {
         "attributes": [],
         "tokenId": token_id,
@@ -34,6 +34,6 @@ for i in data:
     token["attributes"].append(getAttribute("Candy Dispenser", i["Candy Dispenser"]))
     token["attributes"].append(getAttribute("Heads", i["Heads"]))
 
-    with open('./metadata/' + str(token_id), 'w') as outfile:
+    with open('/Users/nervousmini/Documents/GitHub/LTJ/images/final_metadata/' + str(token_id), 'w') as outfile:
         json.dump(token, outfile, indent=4)
 f.close()
